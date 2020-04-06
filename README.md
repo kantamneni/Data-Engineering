@@ -83,6 +83,9 @@ Introduction to Data Lakes
 ➔ Understand the components and issues of data lakes
 
 Project : Data Lakes with Spark
+https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Lake1.zip
+
+
 
 
 
