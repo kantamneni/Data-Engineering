@@ -124,6 +124,19 @@ Here the github link for Project: Data Pipelines with Airflow
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Pipelines%20with%20Airflow.zip
 
 
+Data Engineering Capstone Project
+Project Summary
+The project's goal is to build out an ETL pipeline that uses I94 immagratin data and city tempature data to create a database that is optimized for queries to analize imagration events. The database will then be used to answer questions regarding imagration behavior to location tempatures.
+
+The project follows the follow steps:
+
+Step 1: Scope the Project and Gather Data
+Step 2: Explore and Assess the Data
+Step 3: Define the Data Model
+Step 4: Run ETL to Model the Data
+Step 5: Complete Project Write Up
+
+Here the github link for Capstone Project 
 
 
 
