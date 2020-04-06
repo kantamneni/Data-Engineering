@@ -22,5 +22,8 @@ NoSQL Data Models
 
 ➔ Create a NoSQL database in Apache Cassandra
 
+Below are the links for Course 1: Data Modeling Projects 
 
 Project -  Data Modeling with Postgres 
+https://github.com/kantamneni/Data-Engineering/blob/master/Project%20Data%20Modeling%20with%20Postgres.zip
+Project - Data Modeling with 
