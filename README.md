@@ -2,7 +2,9 @@ Course 1: Data Modeling
 
 Introduction to Data Modeling
 ➔ Understand the purpose of data modeling
+
 ➔ Identify the strengths and weaknesses of different types of databases and data storage techniques
+
 ➔ Create a table in Postgres and Apache Cassandra
 
 Relational Data Models
@@ -30,6 +32,7 @@ Project - Data Modeling with Cassandra
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Modeling%20with%20Cassandra.zip
 
 Course 2: Cloud Data Warehouses
+
 Introduction to the Data Warehouses
 ➔ Understand Data Warehousing architecture
 
@@ -59,6 +62,7 @@ Project : Data WareHouse on the Cloud
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Warehouse1.zip
 
 Course 3: Data Lakes with Spark
+
 The Power of Spark
 ➔ Understand the big data ecosystem
 
@@ -85,6 +89,7 @@ Project : Data Lakes with Spark
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Lake1.zip
 
 Course 4: Automate Data Pipelines
+
 Data Pipelines
 ➔ Create data pipelines with Apache Airflow
 
