@@ -1,9 +1,8 @@
 Course 1: Data Modeling
+
 Introduction to Data Modeling
 ➔ Understand the purpose of data modeling
-
 ➔ Identify the strengths and weaknesses of different types of databases and data storage techniques
-
 ➔ Create a table in Postgres and Apache Cassandra
 
 Relational Data Models
