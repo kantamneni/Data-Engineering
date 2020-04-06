@@ -22,4 +22,5 @@ NoSQL Data Models
 
 ➔ Create a NoSQL database in Apache Cassandra
 
+
 Project -  Data Modeling with Postgres 
