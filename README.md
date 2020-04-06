@@ -23,7 +23,7 @@ NoSQL Data Models
 
 ➔ Create a NoSQL database in Apache Cassandra
 
-Below are the links for Course 1: Data Modeling Projects 
+Below are the Github links for Course 1: Data Modeling Projects 
 
 Project -  Data Modeling with Postgres 
 https://github.com/kantamneni/Data-Engineering/blob/master/Project%20Data%20Modeling%20with%20Postgres.zip
@@ -58,8 +58,9 @@ Implementing Data Warehouses on AWS
 
 ➔ Design an optimized table by selecting the appropriate distribution style and sorting key
 
-Project : Data WareHouse on the Cloud
+here the Github link  for Project : Data WareHouse on the Cloud
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Warehouse1.zip
+
 
 Course 3: Data Lakes with Spark
 
@@ -85,7 +86,7 @@ Introduction to Data Lakes
 
 ➔ Understand the components and issues of data lakes
 
-Project : Data Lakes with Spark
+Here the Github link  for Project :  Data Lakes with Spark
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Lake1.zip
 
 Course 4: Automate Data Pipelines
@@ -119,7 +120,7 @@ Production Data Pipelines
 
 ➔ Monitor data pipelines
 
-Project: Data Pipelines with Airflow 
+Here the github link for Project: Data Pipelines with Airflow 
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Pipelines%20with%20Airflow.zip
 
 
