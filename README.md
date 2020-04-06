@@ -57,5 +57,8 @@ Implementing Data Warehouses on AWS
 ➔ Design an optimized table by selecting the appropriate distribution style and sorting key
 
 Project : Data Infrastructure on the Cloud
+https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Warehouse1.zip
+
+
 
 
