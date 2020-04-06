@@ -29,3 +29,33 @@ https://github.com/kantamneni/Data-Engineering/blob/master/Project%20Data%20Mode
 
 Project - Data Modeling with Cassandra
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Modeling%20with%20Cassandra.zip
+
+Course 2: Cloud Data Warehouses
+Introduction to the Data Warehouses
+➔ Understand Data Warehousing architecture
+
+➔ Run an ETL process to denormalize a database (3NF to Star)
+
+➔ Create an OLAP cube from facts and dimensions
+
+➔ Compare columnar vs. row oriented approaches
+
+Introduction to the Cloud with AWS
+➔ Understand cloud computing
+
+➔ Create an AWS account and understand their services
+
+➔ Set up Amazon S3, IAM, VPC, EC2, RDS PostgreSQL
+
+Implementing Data Warehouses on AWS
+➔ Identify components of the Redshift architecture
+
+➔ Run ETL process to extract data from S3 into Redshift
+
+➔ Set up AWS infrastructure using Infrastructure as Code (IaC)
+
+➔ Design an optimized table by selecting the appropriate distribution style and sorting key
+
+Project : Data Infrastructure on the Cloud
+
+
