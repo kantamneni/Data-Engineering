@@ -85,6 +85,37 @@ Introduction to Data Lakes
 Project : Data Lakes with Spark
 https://github.com/kantamneni/Data-Engineering/blob/master/Data%20Lake1.zip
 
+Course 4: Automate Data Pipelines
+Data Pipelines
+➔ Create data pipelines with Apache Airflow
+
+➔ Set up task dependencies
+
+➔ Create data connections using hooks
+
+Data Quality
+➔ Track data lineage
+
+➔ Set up data pipeline schedules
+
+➔ Partition data to optimize pipelines
+
+➔ Write tests to ensure data quality
+
+➔ Backfill data
+
+Production Data Pipelines
+➔ Build reusable and maintainable pipelines
+
+➔ Build your own Apache Airflow plugins
+
+➔ Implement subDAGs
+
+➔ Set up task boundaries
+
+➔ Monitor data pipelines
+
+Project: Data Pipelines with Airflow 
 
 
 
